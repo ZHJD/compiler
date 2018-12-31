@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ba453bf-1517-4f14-84b7-aa6e1bbfe214" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Yuyi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Yuyi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="648" column="21" selection-start-line="648" selection-start-column="21" selection-end-line="648" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="320" column="46" lean-forward="true" selection-start-line="320" selection-start-column="46" selection-end-line="320" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Data.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Data.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aaa.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aaa.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scanner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Scanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4323">
+              <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+              <folding>
+                <element signature="e#9826#9827#0" expanded="true" />
+                <element signature="e#9871#9872#0" expanded="true" />
+                <element signature="e#9915#9916#0" expanded="true" />
+                <element signature="e#9967#9968#0" expanded="true" />
+                <element signature="e#10006#10007#0" expanded="true" />
+                <element signature="e#10050#10051#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Token.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Token.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/FileUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lookahead.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Lookahead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>file</find>
+      <find>TextLex</find>
+      <find>frame</find>
+      <find>标识符</find>
+      <find>handleFirstAlpha</find>
+      <find>错误的标识符</find>
+      <find>ERROR</find>
+      <find>|</find>
+      <find>28</find>
+      <find>DECI</find>
+      <find>右括号</find>
+      <find>decimal</find>
+      <find>isInFunction</find>
+      <find>isParm</find>
+      <find>不能把</find>
+      <find>error</find>
+      <find>期待输入分号</find>
+      <find>enter</find>
+      <find>rollback</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ldylex.java" />
+        <option value="$PROJECT_DIR$/src/com/zhj/scan/KeyWord.java" />
+        <option value="$PROJECT_DIR$/src/com/zhj/scan/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/zhj/scan/Lookahead.java" />
+        <option value="$PROJECT_DIR$/src/com/zhj/scan/Data.java" />
+        <option value="$PROJECT_DIR$/src/mycompiler/compiler.java" />
+        <option value="$PROJECT_DIR$/src/com/zhj/parse/Parse.java" />
+        <option value="$PROJECT_DIR$/src/com/zhj/scan/Token.java" />
+        <option value="$PROJECT_DIR$/src/com/zhj/scan/Scanner.java" />
+        <option value="$PROJECT_DIR$/aaa.txt" />
+        <option value="$PROJECT_DIR$/src/com/zhj/parse/Yuyi.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-50" />
+    <option name="width" value="1860" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zhj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zhj" type="462c0819:PsiDirectoryNode" />
+              <item name="parse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zhj" type="462c0819:PsiDirectoryNode" />
+              <item name="scan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaEE\compiler\src\mycompiler" />
+      <recent name="D:\javaEE\compiler\src" />
+      <recent name="D:\javaEE\compiler\src\com\zhj\scan" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Yuyi">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Parse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhj.parse.Parse" />
+      <module name="compiler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhj.parse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhj.scan.Scanner" />
+      <module name="compiler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhj.scan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Yuyi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhj.parse.Yuyi" />
+      <module name="compiler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhj.parse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ldylex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ldylex" />
+      <module name="compiler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ldylex" />
+      <item itemvalue="Application.Parse" />
+      <item itemvalue="Application.Scanner" />
+      <item itemvalue="Application.Yuyi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Yuyi" />
+        <item itemvalue="Application.Parse" />
+        <item itemvalue="Application.Scanner" />
+        <item itemvalue="Application.ldylex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ba453bf-1517-4f14-84b7-aa6e1bbfe214" name="Default" comment="" />
+      <created>1526127902271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526127902271</updated>
+      <workItem from="1526127905428" duration="4148000" />
+      <workItem from="1526558158744" duration="31924000" />
+      <workItem from="1526970513830" duration="615000" />
+      <workItem from="1526971304798" duration="29438000" />
+      <workItem from="1527315562249" duration="499000" />
+      <workItem from="1527425737494" duration="10442000" />
+      <workItem from="1527840427784" duration="30000" />
+      <workItem from="1528849507508" duration="7241000" />
+      <workItem from="1528890042997" duration="687000" />
+      <workItem from="1528894413626" duration="86797000" />
+      <workItem from="1529288693067" duration="6080000" />
+      <workItem from="1529313201587" duration="2862000" />
+      <workItem from="1529396832547" duration="6000" />
+      <workItem from="1529661153391" duration="1471000" />
+      <workItem from="1529676617016" duration="6217000" />
+      <workItem from="1529820659020" duration="8503000" />
+      <workItem from="1529889588734" duration="85000" />
+      <workItem from="1529899465210" duration="1199000" />
+      <workItem from="1529930157921" duration="8488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="206732000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5334672" side_tool="true" visible="true" weight="0.31920904" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.3297587" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4665328" weight="0.45633802" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48958334" visible="true" weight="0.31099194" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.5104167" side_tool="true" weight="0.28284183" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.48862115" weight="0.4056338" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="11" visible="true" weight="0.3295325" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.46720216" weight="0.31830987" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978261" visible="true" weight="0.27479893" />
+      <window_info id="Structure" order="1" sideWeight="0.5021739" side_tool="true" visible="true" weight="0.27479893" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3502825" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3983051" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="11" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3295325" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32909605" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java</url>
+          <line>273</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java</url>
+          <line>226</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhj/parse/Yuyi.java</url>
+          <line>525</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhj/parse/Yuyi.java</url>
+          <line>234</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="58" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6006">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#9826#9827#0" expanded="true" />
+            <element signature="e#9871#9872#0" expanded="true" />
+            <element signature="e#9915#9916#0" expanded="true" />
+            <element signature="e#9967#9968#0" expanded="true" />
+            <element signature="e#10006#10007#0" expanded="true" />
+            <element signature="e#10050#10051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5918">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#9826#9827#0" expanded="true" />
+            <element signature="e#9871#9872#0" expanded="true" />
+            <element signature="e#9915#9916#0" expanded="true" />
+            <element signature="e#9967#9968#0" expanded="true" />
+            <element signature="e#10006#10007#0" expanded="true" />
+            <element signature="e#10050#10051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#9826#9827#0" expanded="true" />
+            <element signature="e#9871#9872#0" expanded="true" />
+            <element signature="e#9915#9916#0" expanded="true" />
+            <element signature="e#9967#9968#0" expanded="true" />
+            <element signature="e#10006#10007#0" expanded="true" />
+            <element signature="e#10050#10051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="76" column="19" lean-forward="true" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#9826#9827#0" expanded="true" />
+            <element signature="e#9871#9872#0" expanded="true" />
+            <element signature="e#9915#9916#0" expanded="true" />
+            <element signature="e#9967#9968#0" expanded="true" />
+            <element signature="e#10006#10007#0" expanded="true" />
+            <element signature="e#10050#10051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9637">
+          <caret line="419" selection-start-line="419" selection-end-line="419" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9637">
+          <caret line="419" lean-forward="true" selection-start-line="419" selection-end-line="419" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#9826#9827#0" expanded="true" />
+            <element signature="e#9871#9872#0" expanded="true" />
+            <element signature="e#9915#9916#0" expanded="true" />
+            <element signature="e#9967#9968#0" expanded="true" />
+            <element signature="e#10006#10007#0" expanded="true" />
+            <element signature="e#10050#10051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/词法分析测试输入.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#9826#9827#0" expanded="true" />
+            <element signature="e#9871#9872#0" expanded="true" />
+            <element signature="e#9915#9916#0" expanded="true" />
+            <element signature="e#9967#9968#0" expanded="true" />
+            <element signature="e#10006#10007#0" expanded="true" />
+            <element signature="e#10050#10051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/词法分析测试输入.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LineNumberHeaderView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/KeyWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ldylex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="131" column="25" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextLex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="331" column="45" selection-start-line="331" selection-start-column="39" selection-end-line="331" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/词法分析测试输入.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk1.8.0_144/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="5760" selection-start-line="5760" selection-end-line="5760" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mycompiler/cifa/CreatToken.java" />
+    <entry file="file://D:/编译原理/综合实验/参考代码/snljava/snljava/mycompiler/yufa/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mycompiler/zhongjian/Midcode.java" />
+    <entry file="file://$PROJECT_DIR$/src/mycompiler/compiler.java" />
+    <entry file="jar://C:/jdk1.8.0_144/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="198" column="13" lean-forward="true" selection-start-line="198" selection-start-column="13" selection-end-line="198" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Lookahead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4323">
+          <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+          <folding>
+            <element signature="e#9826#9827#0" expanded="true" />
+            <element signature="e#9871#9872#0" expanded="true" />
+            <element signature="e#9915#9916#0" expanded="true" />
+            <element signature="e#9967#9968#0" expanded="true" />
+            <element signature="e#10006#10007#0" expanded="true" />
+            <element signature="e#10050#10051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/scan/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Yuyi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="648" column="21" selection-start-line="648" selection-start-column="21" selection-end-line="648" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhj/parse/Parse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="320" column="46" lean-forward="true" selection-start-line="320" selection-start-column="46" selection-end-line="320" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

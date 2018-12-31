@@ -1,0 +1,24 @@
+program abc
+
+PROCEDURE test(integer a,b,c);
+var integer x ,y,z,d;
+    float m,n,w,s,t;
+begin
+
+//测试嵌套
+if a+b*c>m+n or a>b and m>n then
+   if a>b then a=b else a=a+b fi;
+   while a>b and c<d do
+      if a>b then a=a+b else a=a*b fi
+   endwh
+else
+   if a>b then a=b else a=a+b fi
+fi;
+
+
+//测试空语句
+if a>b then else fi;  
+while a>b do endwh
+
+
+end
